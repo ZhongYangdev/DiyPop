@@ -3,7 +3,7 @@
 ![示例](https://upload-images.jianshu.io/upload_images/25929436-49ead0532944eb45.gif?imageMogr2/auto-orient/strip)
 
 自定义日期选择弹窗，基于开源控件[AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)实现。
-此案例是根据交流群的一位网友需求写的，主要是选择两个日期，和自定义弹窗。没什么特别的难度，主要是**自定义弹窗的实现**和**日期滚轮监听**。
+此案例是根据交流群的一位网友需求写的，选择两个日期和自定义弹窗。没什么特别的难度，主要是**自定义弹窗的实现**和**日期滚轮监听**。
 
 # 自定义弹窗
 
